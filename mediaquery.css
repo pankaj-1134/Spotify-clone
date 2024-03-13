@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px) {
+    .songName{
+        font-size: 14px;
+    }
+    .icons{
+        margin-top: 30px;
+    }
+    .songInfo{
+        margin-bottom: 40px;
+        margin-left: 60px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .songName{
+        font-size: 10px;
+        margin-right: 5px;
+    }
+    .songListplay{
+        font-size: 10px;
+    }
+    .times{
+        margin-left: 0;
+    }
+    .songInfo{
+        margin-left: 40px;
+    }
+}
